@@ -24,7 +24,6 @@ public sealed class Apartment : Entity
         Amenities = amenities;
     }
 
-    public Guid Id { get; private set; }
     public Name Name { get; private set; }
     public Description Description { get; private set; }
     public Address Address { get; private set; }
