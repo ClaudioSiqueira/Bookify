@@ -1,6 +1,5 @@
 ﻿using Bookify.Domain.Abstractions;
 using Bookify.Domain.Apartments;
-using Bookify.Domain.Users;
 
 namespace Bookify.Domain.Bookings;
 public sealed class Booking : Entity
